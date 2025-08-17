@@ -71,13 +71,13 @@ This project is an expense management system that consists of a Streamlit fronte
 ## Screenshots
 
 ### 1. Add / Update Expenses
-![Add Update](./app_frontend_UI.png)
+![Add Update](./app_frontend_UI.PNG)
 
 ### 2. Analytics by Category
-![Category Analytics](./Category_analytics_ui_demo.png)
+![Category Analytics](./Category_analytics_ui_demo.PNG)
 
 ### 3. Analytics by Month
-![Monthly Analytics](./Analytics_By_month_ui_demo.png)
+![Monthly Analytics](./Analytics_By_month_ui_demo.PNG)
 
 ## Future Improvements
 
